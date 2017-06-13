@@ -1,5 +1,5 @@
 PODS:
-  - TPHomeModule (0.1.0)
+  - TPHomeModule (0.1.1)
 
 DEPENDENCIES:
   - TPHomeModule (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TPHomeModule: dfdb05423f8063c8b70d42fa8dc291f8481e1bd7
+  TPHomeModule: e2ae2fa0949249ed429ff9db5ace0f86191598cd
 
 PODFILE CHECKSUM: 2302d1ef6034bdc7d9025fb4fa79b06f8442a302
 

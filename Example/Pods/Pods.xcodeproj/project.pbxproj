@@ -8,14 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		190C8BF42D00BB9BCEFE85A0A708952E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		2E341F3CBB33051612E695BD2C67A275 /* TPHomeModule-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FEE6B733189F980D9FE767466F8527E /* TPHomeModule-dummy.m */; };
+		31A991E672A61D0895A518C1CD42AA10 /* UIButton+click.h in Headers */ = {isa = PBXBuildFile; fileRef = AE3A5338C3C37F45E2088E3AA067E503 /* UIButton+click.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4DC5701BF87D954CB38F4A6D9F104991 /* Pods-TPHomeModule_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 575EB847FEE75EB3EDE1D18D217E18D8 /* Pods-TPHomeModule_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4EF567265B4F8C8787207D9F1D6986F5 /* UIView+fastFrameSetting.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CED612EAC46D962F5D1D30B8199236E /* UIView+fastFrameSetting.m */; };
 		5A202C54B694F48D2E76D23E11B12910 /* Pods-TPHomeModule_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4880480E73F8B92EF810D24C17AAA38E /* Pods-TPHomeModule_Tests-dummy.m */; };
+		66459D2BE35253DAADF92BBE99C22E86 /* UILabel+FastSetting.h in Headers */ = {isa = PBXBuildFile; fileRef = 64CAD36EB5CC7FB4252367308AA1BA1A /* UILabel+FastSetting.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		803B76620AD4FAB6D2C3361620724203 /* Pods-TPHomeModule_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CDF7A0BAEECB3E9B28F21C236FB75364 /* Pods-TPHomeModule_Example-dummy.m */; };
+		8300121593B6F1F3808F22C27D9C7897 /* NSObject+FastInit.h in Headers */ = {isa = PBXBuildFile; fileRef = 74E5BCF65A65F60417BA8A501D150EF5 /* NSObject+FastInit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		87F44F49EF22AFA0BBCE6BAC275E27DE /* TPHomeModule-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FEE6B733189F980D9FE767466F8527E /* TPHomeModule-dummy.m */; };
+		990ABE9095C3D1C4AF2CCE7A40D19FED /* UIView+fastFrameSetting.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A8C0C66D03D3D81F6D1E2492D85B899 /* UIView+fastFrameSetting.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A408EE5EBFF93B84548DA43190F7B824 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		A7C3D5525CB8B49B012D39EE9089D7F4 /* UIButton+buttonFastSetting.h in Headers */ = {isa = PBXBuildFile; fileRef = E6250BEEEA00FB85E5F0F2C44A1405D8 /* UIButton+buttonFastSetting.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AB5D0C27E386897FD1C9ECC4CA6A9ED4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		ACE7E3C38DA32E8AC60CEC33BB66F397 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 89309156F21B7B9C98579C348FBA0333 /* ReplaceMe.m */; };
-		C4C482D367267A9ADB7A99E3F7973023 /* TPHomeModule-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DCD7EBBC77F52E882BD4685D6E58C718 /* TPHomeModule-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C63A49A4357D5EB97B0ECBF1AE4D889E /* NSObject+FastInit.m in Sources */ = {isa = PBXBuildFile; fileRef = 76B750F484535759DA9603233D4BEB9B /* NSObject+FastInit.m */; };
+		C75EC09286201B6807167A734D2939C6 /* TPHomeModule-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DCD7EBBC77F52E882BD4685D6E58C718 /* TPHomeModule-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D94AABA439BBCA9EDD0BFC6DB73950F4 /* UILabel+FastSetting.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E9A780676A149652B06E4F8B70CBE03 /* UILabel+FastSetting.m */; };
+		DEFCA563EC0591244C06AC1CF91D3638 /* UIButton+click.m in Sources */ = {isa = PBXBuildFile; fileRef = 58982DFB66C7D1C02401525ADDC04EB9 /* UIButton+click.m */; };
+		E1FD48A9F097A77FED64FD3D65CF74DC /* UIButton+buttonFastSetting.m in Sources */ = {isa = PBXBuildFile; fileRef = 739034FBF0469E341C7508500F51C996 /* UIButton+buttonFastSetting.m */; };
+		E292DF614A5E447D0295B909EE87FF92 /* Label+Button.h in Headers */ = {isa = PBXBuildFile; fileRef = BDBFCBA3DEE2C79484FE8B52CE0652C8 /* Label+Button.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F12108CF786001704D7401D01E2030AD /* Pods-TPHomeModule_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 54C724D9515D9D77BAC45FD56250088A /* Pods-TPHomeModule_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -43,24 +53,34 @@
 		54E99CED424BD80A81969A870A38E146 /* TPHomeModule.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = TPHomeModule.modulemap; sourceTree = "<group>"; };
 		563961CA7B478211AB03D16D5859828D /* TPHomeModule-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TPHomeModule-prefix.pch"; sourceTree = "<group>"; };
 		575EB847FEE75EB3EDE1D18D217E18D8 /* Pods-TPHomeModule_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TPHomeModule_Tests-umbrella.h"; sourceTree = "<group>"; };
+		58982DFB66C7D1C02401525ADDC04EB9 /* UIButton+click.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+click.m"; sourceTree = "<group>"; };
 		5A009F3800895E4B9EEB7C322FD3F157 /* Pods-TPHomeModule_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TPHomeModule_Example-frameworks.sh"; sourceTree = "<group>"; };
+		64CAD36EB5CC7FB4252367308AA1BA1A /* UILabel+FastSetting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+FastSetting.h"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6A5CD857FC0284CB776D342CBBE252FA /* Pods-TPHomeModule_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TPHomeModule_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		6E9A780676A149652B06E4F8B70CBE03 /* UILabel+FastSetting.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+FastSetting.m"; sourceTree = "<group>"; };
+		739034FBF0469E341C7508500F51C996 /* UIButton+buttonFastSetting.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+buttonFastSetting.m"; sourceTree = "<group>"; };
+		74E5BCF65A65F60417BA8A501D150EF5 /* NSObject+FastInit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject+FastInit.h"; sourceTree = "<group>"; };
+		76B750F484535759DA9603233D4BEB9B /* NSObject+FastInit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSObject+FastInit.m"; sourceTree = "<group>"; };
 		803073C28D4367EDF5430989E365B5DE /* Pods-TPHomeModule_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TPHomeModule_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		89309156F21B7B9C98579C348FBA0333 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
+		8A8C0C66D03D3D81F6D1E2492D85B899 /* UIView+fastFrameSetting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+fastFrameSetting.h"; sourceTree = "<group>"; };
 		8FEE6B733189F980D9FE767466F8527E /* TPHomeModule-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TPHomeModule-dummy.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		99645EE326901D08B99E753B6133C328 /* Pods_TPHomeModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TPHomeModule_Tests.framework; path = "Pods-TPHomeModule_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B51128D4AEB00B30F3FA90F4E7CDE05 /* Pods-TPHomeModule_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-TPHomeModule_Example.modulemap"; sourceTree = "<group>"; };
 		9C5CC3470BABE3746C0FAFD509327750 /* Pods-TPHomeModule_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-TPHomeModule_Tests.modulemap"; sourceTree = "<group>"; };
+		9CED612EAC46D962F5D1D30B8199236E /* UIView+fastFrameSetting.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+fastFrameSetting.m"; sourceTree = "<group>"; };
 		AD112034F0B59C0446C37BFBABC35642 /* Pods-TPHomeModule_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TPHomeModule_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		AE3A5338C3C37F45E2088E3AA067E503 /* UIButton+click.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+click.h"; sourceTree = "<group>"; };
 		AF851199A6952848D629087F7A2BB568 /* Pods_TPHomeModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TPHomeModule_Example.framework; path = "Pods-TPHomeModule_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B350DEDFC15C05D8DCD05BCF2FF65FC2 /* Pods-TPHomeModule_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TPHomeModule_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		BDBFCBA3DEE2C79484FE8B52CE0652C8 /* Label+Button.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Label+Button.h"; sourceTree = "<group>"; };
 		C1BAFD90C02D1CE33EE21E91D498F7CF /* Pods-TPHomeModule_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TPHomeModule_Example-resources.sh"; sourceTree = "<group>"; };
 		CDF7A0BAEECB3E9B28F21C236FB75364 /* Pods-TPHomeModule_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TPHomeModule_Example-dummy.m"; sourceTree = "<group>"; };
 		D7D1AB4FA492153E63AFE2317DB31DA7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D860BCC62A1883BA8F4DF3817993B737 /* TPHomeModule.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TPHomeModule.xcconfig; sourceTree = "<group>"; };
 		DCD7EBBC77F52E882BD4685D6E58C718 /* TPHomeModule-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TPHomeModule-umbrella.h"; sourceTree = "<group>"; };
+		E6250BEEEA00FB85E5F0F2C44A1405D8 /* UIButton+buttonFastSetting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+buttonFastSetting.h"; sourceTree = "<group>"; };
 		EA919BAE52E03F3C4A5ACD13A1448250 /* Pods-TPHomeModule_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TPHomeModule_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,13 +112,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4B8CC2F7F1275A4ED1EA709EF7F100B2 /* Classes */ = {
+		2F9BF88ABB01C08DBE292E1D29A50BC9 /* EWInitView */ = {
 			isa = PBXGroup;
 			children = (
-				89309156F21B7B9C98579C348FBA0333 /* ReplaceMe.m */,
+				74E5BCF65A65F60417BA8A501D150EF5 /* NSObject+FastInit.h */,
+				76B750F484535759DA9603233D4BEB9B /* NSObject+FastInit.m */,
+				8A8C0C66D03D3D81F6D1E2492D85B899 /* UIView+fastFrameSetting.h */,
+				9CED612EAC46D962F5D1D30B8199236E /* UIView+fastFrameSetting.m */,
 			);
-			name = Classes;
-			path = Classes;
+			name = EWInitView;
+			path = EWInitView;
 			sourceTree = "<group>";
 		};
 		56D788E7715CBBD5AF383B17327B1C87 /* Targets Support Files */ = {
@@ -131,6 +154,17 @@
 			);
 			sourceTree = "<group>";
 		};
+		81E888B29D2FE247E4CDA41692C6FCD3 /* EWUISetting */ = {
+			isa = PBXGroup;
+			children = (
+				D714E62AF7CD1C2D34E27223F83B129B /* EWButton */,
+				2F9BF88ABB01C08DBE292E1D29A50BC9 /* EWInitView */,
+				DC9FE3A4CB87F76DDF2717329A630650 /* EWLabel */,
+			);
+			name = EWUISetting;
+			path = EWUISetting;
+			sourceTree = "<group>";
+		};
 		8C5D91E1CB4550EBCE56ADCF958650C2 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -156,7 +190,7 @@
 		9081740E9B563C27D7A0F4AFB007BD0D /* TPHomeModule */ = {
 			isa = PBXGroup;
 			children = (
-				4B8CC2F7F1275A4ED1EA709EF7F100B2 /* Classes */,
+				DECB085DFA880A3902F841024B232746 /* Classes */,
 			);
 			name = TPHomeModule;
 			path = TPHomeModule;
@@ -206,6 +240,38 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		D714E62AF7CD1C2D34E27223F83B129B /* EWButton */ = {
+			isa = PBXGroup;
+			children = (
+				BDBFCBA3DEE2C79484FE8B52CE0652C8 /* Label+Button.h */,
+				E6250BEEEA00FB85E5F0F2C44A1405D8 /* UIButton+buttonFastSetting.h */,
+				739034FBF0469E341C7508500F51C996 /* UIButton+buttonFastSetting.m */,
+				AE3A5338C3C37F45E2088E3AA067E503 /* UIButton+click.h */,
+				58982DFB66C7D1C02401525ADDC04EB9 /* UIButton+click.m */,
+			);
+			name = EWButton;
+			path = EWButton;
+			sourceTree = "<group>";
+		};
+		DC9FE3A4CB87F76DDF2717329A630650 /* EWLabel */ = {
+			isa = PBXGroup;
+			children = (
+				64CAD36EB5CC7FB4252367308AA1BA1A /* UILabel+FastSetting.h */,
+				6E9A780676A149652B06E4F8B70CBE03 /* UILabel+FastSetting.m */,
+			);
+			name = EWLabel;
+			path = EWLabel;
+			sourceTree = "<group>";
+		};
+		DECB085DFA880A3902F841024B232746 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				81E888B29D2FE247E4CDA41692C6FCD3 /* EWUISetting */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		E5C8F4F7FD1DD7C8BEB5BD559C298E29 /* Pods-TPHomeModule_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -227,11 +293,17 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1176DBBAE3F4387E70D05CEEA50459F6 /* Headers */ = {
+		EC943A33484E7667321F15F9ADC7C26C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4C482D367267A9ADB7A99E3F7973023 /* TPHomeModule-umbrella.h in Headers */,
+				E292DF614A5E447D0295B909EE87FF92 /* Label+Button.h in Headers */,
+				8300121593B6F1F3808F22C27D9C7897 /* NSObject+FastInit.h in Headers */,
+				C75EC09286201B6807167A734D2939C6 /* TPHomeModule-umbrella.h in Headers */,
+				A7C3D5525CB8B49B012D39EE9089D7F4 /* UIButton+buttonFastSetting.h in Headers */,
+				31A991E672A61D0895A518C1CD42AA10 /* UIButton+click.h in Headers */,
+				66459D2BE35253DAADF92BBE99C22E86 /* UILabel+FastSetting.h in Headers */,
+				990ABE9095C3D1C4AF2CCE7A40D19FED /* UIView+fastFrameSetting.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +330,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1EDE9B43947BDF9D51AC81411C4505C5 /* Build configuration list for PBXNativeTarget "TPHomeModule" */;
 			buildPhases = (
-				3170B313C03697617EC8F82D3DF91EE6 /* Sources */,
+				A5945E11163AF1A02BC2220DFB9E6045 /* Sources */,
 				6560F8D56DF953B0BD72621D4825FD53 /* Frameworks */,
-				1176DBBAE3F4387E70D05CEEA50459F6 /* Headers */,
+				EC943A33484E7667321F15F9ADC7C26C /* Headers */,
 			);
 			buildRules = (
 			);
@@ -335,12 +407,16 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3170B313C03697617EC8F82D3DF91EE6 /* Sources */ = {
+		A5945E11163AF1A02BC2220DFB9E6045 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACE7E3C38DA32E8AC60CEC33BB66F397 /* ReplaceMe.m in Sources */,
-				2E341F3CBB33051612E695BD2C67A275 /* TPHomeModule-dummy.m in Sources */,
+				C63A49A4357D5EB97B0ECBF1AE4D889E /* NSObject+FastInit.m in Sources */,
+				87F44F49EF22AFA0BBCE6BAC275E27DE /* TPHomeModule-dummy.m in Sources */,
+				E1FD48A9F097A77FED64FD3D65CF74DC /* UIButton+buttonFastSetting.m in Sources */,
+				DEFCA563EC0591244C06AC1CF91D3638 /* UIButton+click.m in Sources */,
+				D94AABA439BBCA9EDD0BFC6DB73950F4 /* UILabel+FastSetting.m in Sources */,
+				4EF567265B4F8C8787207D9F1D6986F5 /* UIView+fastFrameSetting.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
